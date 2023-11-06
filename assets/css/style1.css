@@ -1,3 +1,14 @@
+/**
+* Template Name: Gp
+* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -213,7 +224,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #3cb40c;
+  color: #ffc451;
 }
 
 .navbar .dropdown ul {
@@ -250,7 +261,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  background-color: #ec3d3d;
+  background-color: #ffc451;
 }
 
 .navbar .dropdown:hover>ul {
@@ -346,7 +357,7 @@ h6 {
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
   color: #151515;
-  background-color: #1826e0;
+  background-color: #ffc451;
 }
 
 .navbar-mobile .getstarted,
@@ -382,7 +393,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  background-color: #038836;
+  background-color: #ffc451;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -395,7 +406,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/1.jpg") top center;
+  background: url("../img/banner-1.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -576,7 +587,7 @@ section {
 
 .clients .swiper-slide img {
   opacity: 0.5;
-  transition: 0.2s;
+  transition: 0.3s;
   filter: grayscale(100);
 }
 
@@ -593,9 +604,9 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #c6db09;
+  background-color: #fff;
   opacity: 1;
-  background-color: #04a51f;
+  background-color: #ddd;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
@@ -878,11 +889,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0c0c0c;
+  border: 1px solid #ffc451;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #888785;
+  background-color: #ffc451;
 }
 
 .portfolio-details .portfolio-info {
@@ -895,7 +906,7 @@ section {
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #86010186;
+  border-bottom: 1px solid #eee;
 }
 
 .portfolio-details .portfolio-info ul {
