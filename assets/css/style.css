@@ -983,7 +983,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("../img/impre/8.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1009,7 +1009,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/1.jpg") no-repeat;
+  background: url("../img/2.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
